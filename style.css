@@ -1,7 +1,14 @@
-/* Theme Name: Bootstrap Theme
-Theme Description: Basic Theme for Bootstrap
-Author: lebck
-URI: http://www.deinedomain.de/
-*/
-/* @import url('css/bootstrap.min.css'); */
+.site-6 {
+  background-image: url("/wp-content/themes/bootstrap-basic-theme/img/background_home.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto; }
 
+body {
+  height: 100%; }
+
+.entry-content-page {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 0 40px;
+  height: 100vh; }
+
+/*# sourceMappingURL=style.css.map */
